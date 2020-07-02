@@ -1,4 +1,4 @@
-// CODE EXPLAINED channel
+// Author: Adesina Festus 
 
 // Select the Elements
 const clear = document.querySelector(".clear");
